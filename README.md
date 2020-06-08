@@ -1,9 +1,4 @@
 # FileProjek
-TAM
-Tolong dikoreksi kalo ada salah dan diperbaiki yow
-Kalo bisa juga buatin GUI nya sekalian kalo bisa
-Kalo engga ga ush gpp trus sama tambahain database jangan lupa
-kalo bisa lagi aja wkwkwwkwk
-semangat gaes buat TAM
-Oke Di Gassss
-Anjay
+*NOTES
+Untuk projek dengan Embeded-JRE diletakan terpisah dari GitHub karena file yang dikirim terlalu besar untuk di upload GitHub.
+Untuk proses bisnis juga terdapat pada GitHub dan juga terdapat pada laporan
